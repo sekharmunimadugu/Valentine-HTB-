@@ -1,0 +1,6 @@
+# Nmap 7.80 scan initiated Sat Nov  2 09:59:16 2019 as: nmap -Pn -sU --max-retries 1 --open -oN nmap/UDP_10.10.10.43.nmap 10.10.10.43
+Nmap scan report for 10.10.10.43
+Host is up.
+All 1000 scanned ports on 10.10.10.43 are open|filtered
+
+# Nmap done at Sat Nov  2 10:02:37 2019 -- 1 IP address (1 host up) scanned in 201.38 seconds

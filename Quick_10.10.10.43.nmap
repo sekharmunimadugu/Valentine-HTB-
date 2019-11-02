@@ -1,0 +1,2 @@
+# Nmap 7.80 scan initiated Sat Nov  2 09:57:34 2019 as: nmap -Pn -T4 --max-retries 1 --max-scan-delay 20 --defeat-rst-ratelimit --open -oN nmap/Quick_10.10.10.43.nmap 10.10.10.43
+# Nmap done at Sat Nov  2 09:59:15 2019 -- 1 IP address (1 host up) scanned in 101.30 seconds
